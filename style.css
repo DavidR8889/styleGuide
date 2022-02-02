@@ -73,17 +73,21 @@ h1 {
     font-family: 'Andada Pro';
     font-size: 40px;
     font-weight: 400;
+    color: #ffc0bc;
+    background-color: black;
 }
 h2 {
     font-family: 'Cormorant Garamond';
     font-size: 26px;
     font-weight: 700;
+    color: #4fe0b0;
 }
 
 p {
     font-family: 'Caveat';
     font-size: 18px;
     font-weight: 400;
+    color: #d4af37;
 }
 
 .colorPalettes {
@@ -103,6 +107,7 @@ p {
     padding: 50px;
     margin: 10px;
     font-size: xx-large;
+    color:white;
 }
 
 .mint {
@@ -110,6 +115,7 @@ p {
     padding: 50px;
     margin: 10px;
     font-size: xx-large;
+    color:white;
 }
 
 .black {
@@ -125,6 +131,7 @@ p {
     padding: 50px;
     margin: 10px;
     font-size: xx-large;
+    color:white;
 }
 .andada h2, .cormorantGaramond h2, .caveat h2 {
     text-decoration: underline;
