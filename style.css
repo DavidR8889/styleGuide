@@ -109,7 +109,7 @@ li {
 
 .gold {
     background-color: #d4af37;
-    padding: 50px;
+    padding: 90px;
     margin: 10px;
     font-size: xx-large;
     color:white;
@@ -117,7 +117,7 @@ li {
 
 .mint {
     background-color: #4fe0b0;
-    padding: 50px;
+    padding: 90px;
     margin: 10px;
     font-size: xx-large;
     color:white;
@@ -126,14 +126,14 @@ li {
 .black {
     background-color: #000000;
     color: white;
-    padding: 50px;
+    padding: 90px;
     margin: 10px;
     font-size: xx-large;
 }
 
 .pink {
     background-color: #ffc0bc;
-    padding: 50px;
+    padding: 99px;
     margin: 10px;
     font-size: xx-large;
     color:white;
